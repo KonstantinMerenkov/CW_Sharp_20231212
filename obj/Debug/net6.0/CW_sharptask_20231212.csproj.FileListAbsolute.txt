@@ -1,0 +1,15 @@
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\bin\Debug\net6.0\CW_sharptask_20231212.exe
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\bin\Debug\net6.0\CW_sharptask_20231212.deps.json
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\bin\Debug\net6.0\CW_sharptask_20231212.runtimeconfig.json
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\bin\Debug\net6.0\CW_sharptask_20231212.dll
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\bin\Debug\net6.0\CW_sharptask_20231212.pdb
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.csproj.AssemblyReference.cache
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.AssemblyInfoInputs.cache
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.AssemblyInfo.cs
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.dll
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\refint\CW_sharptask_20231212.dll
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.pdb
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\CW_sharptask_20231212.genruntimeconfig.cache
+C:\Users\Professional\Documents\GeekBrains\C#\CW_sharptask_20231212\obj\Debug\net6.0\ref\CW_sharptask_20231212.dll
